@@ -14,5 +14,5 @@ Here are some ideas to get you started:
       - ~~IBM Accelerate Program Student under the SW Track~~
       - SWE UHM Webmaster
       - KCC Social Media 
-      - ~~Summer 2021 classes 😅  ~~
+      - ~~Summer 2021 classes 😅~~
       - Spring 2022 classes 😅

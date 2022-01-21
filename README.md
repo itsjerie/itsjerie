@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: via email 😉 jeraldinemilla@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Summer activities:
-      - ~~IBM Accelerate Program Student under the SW Track~~✅
+      - ✅IBM Accelerate Program Student under the SW Track
+      - ✅Summer classes 2021
       - SWE UHM Webmaster
       - KCC Social Media 
